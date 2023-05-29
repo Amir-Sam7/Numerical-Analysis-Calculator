@@ -1,0 +1,324 @@
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csprojAssemblyReference.cache
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+C:\Users\lkhiu\source\repos\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.AssemblyReference.cache
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GeneratedMSBuildEditorConfig.editorconfig
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+L:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FParsec.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FParsecCS.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.FSharp.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Symbolics.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+L:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FParsec.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FParsecCS.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.FSharp.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Symbolics.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.AssemblyReference.cache
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+E:\Numerics_Project\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FParsec.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FParsecCS.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.FSharp.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Symbolics.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.AssemblyReference.cache
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
+C:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.gauss_jorden.resources
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FParsec.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FParsecCS.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.FSharp.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Symbolics.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.AssemblyReference.cache
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.gauss_jorden.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+D:\Numerics_Project11\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.exe
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.deps.json
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.json
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.runtimeconfig.dev.json
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Numerics_Project.pdb
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\FParsec.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\FParsecCS.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Numerics.FSharp.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MathNet.Symbolics.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\Z.Expressions.Eval.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.AssemblyReference.cache
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Bisection.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.CramerRule.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.FalsePostion.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Fixed.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.gauss_jorden.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GaussElimination.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.LU_Decomposition.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Newton.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Properties.Resources.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Secant.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.Home.resources
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.GenerateResource.cache
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfoInputs.cache
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.AssemblyInfo.cs
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CoreCompileInputs.cache
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.csproj.CopyComplete
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.dll
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.pdb
+D:\Numerical FINAL\Numerics_Project\obj\Debug\netcoreapp3.1\Numerics_Project.genruntimeconfig.cache
